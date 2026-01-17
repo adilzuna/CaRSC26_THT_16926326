@@ -18,6 +18,7 @@ email: zunaadil@gmail.com
                        git merge branch1
 
 b.  
-   ![jawaban 2b]()
+   ![jawaban 2b](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/WhatsApp%20Image%202026-01-17%20at%2008.37.17.jpeg)
 
 c. 
+
