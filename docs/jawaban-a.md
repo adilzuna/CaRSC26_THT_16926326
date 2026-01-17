@@ -26,7 +26,9 @@ c.
   ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/WhatsApp%20Image%202026-01-17%20at%2010.27.51.jpeg)
 
 d.  
+  ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/WhatsApp%20Image%202026-01-17%20at%2012.10.09.jpeg)
   
+
 
 
 
