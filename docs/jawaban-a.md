@@ -75,4 +75,13 @@ b.
   (referenece: Pak, Jeonghyeon & Kim, Bosung & Son, Hyoung. (2025). RSSI-based Autonomous Tracking System for Radio-tagged Flying Insects using UAV with Rotational Antenna. IEEE Access. PP. 1-1. 10.1109/ACCESS.2025.3562007.)  
 
 C.  
-  
+  frame: rangka yang digunakan sebagai penampung komponen komponen lain  
+  propeller & motor: baling baling beserta motor untuk memberi gaya angkat  
+  GPS & GNSS receiver:  satelit navigasi untuk melacak posisi  
+  flight controller: otak drone yang mengatur gerak drone dan kestabilan drone  
+  sensor utama: mengambil data citrauntuk pemetaan  
+  sensor tambahan: menstabilisasi dengan cara menambah data  
+  Baterai: sebagai sumber energi  
+  GCS: sebagai alat pengendali untuk pilot  
+  ![]()
+
