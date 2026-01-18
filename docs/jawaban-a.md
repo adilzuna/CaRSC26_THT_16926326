@@ -83,5 +83,7 @@ C.
   sensor tambahan: menstabilisasi dengan cara menambah data  
   Baterai: sebagai sumber energi  
   GCS: sebagai alat pengendali untuk pilot  
-  ![]()
+  ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/WhatsApp%20Image%202026-01-18%20at%2022.45.56.jpeg)
 
+d.  
+  
