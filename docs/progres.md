@@ -6,4 +6,8 @@
 Mempelajari markdown serta pengsian form analkon yang tercantum pada nomor 1
 
 ## Sabtu, 17 Januari 2026  
-Membuat repository serta mengerjakan nomor 2a hingga 
+Membuat repository serta mengerjakan nomor 2a hingga 3c  
+
+## Minggu, 18 Januari 2026  
+Mengerjakan nomor 4a hingga
+
