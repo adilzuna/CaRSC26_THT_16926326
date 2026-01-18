@@ -44,17 +44,8 @@ b.
 
 c.  
   ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/WhatsApp%20Image%202026-01-17%20at%2021.47.49.jpeg)
-
-
  ## 4  
  a.  
+   ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/Screenshot%20From%202026-01-18%2009-56-13.png)
    
   
-
-
-
-
-
-
-
-
