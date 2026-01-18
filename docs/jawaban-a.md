@@ -46,6 +46,17 @@ c.
   ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/WhatsApp%20Image%202026-01-17%20at%2021.47.49.jpeg)
  ## 4  
  a.  
-   ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/Screenshot%20From%202026-01-18%2009-56-13.png)
+   ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/Screenshot%20From%202026-01-18%2009-56-13.png)  
+
+ b.  
    
-  
+   
+## 5  
+a.  
+   Fixed wing: UAV bergerak saat take off dan landing secara horizontal. memiliki ketahanan yang lebih baik, kapasitas muatan yang lebih besar, dan membutuhkan runway untuk melakukan take off dan landing.  
+
+   Rotary wing: UAV bergerak saat take off dan landing secara vertikal. tidak membutuhkan area yang luas untuk runway, gerakan lebih lincah, dan kecepatan yang lebih lambat. Rotary wing UAV juga membutuhkan/menggunakan lebih banyak energi, sehingga memiliki ketahanan yang lebih rendah.
+
+   Hybrid: menggabungkan kemampuan VTOL rotary wing dengan kemampuan penggerak dari fixed wing. UAV ini melakukan take off dan landing secara vertikal, lalu ketika di udara, UAV akan bergerak seperti fixed wing. Terdapat 3 mode pada hybrid UAV, yaitu: mode fixed wing, mode transisi, dan mode helikopter. Hybrid UAV memiliki keselamatan yang lebih baik dibandingkan fixed wing UAV karema kecepatan yang rendah diakibatkan oleh kemampuan VTOL, namun memiliki ketahanan yang ebih rendah dikarenakan menggunakan energi lebih banyak.   
+
+b.  
