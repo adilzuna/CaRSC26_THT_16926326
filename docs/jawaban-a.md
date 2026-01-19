@@ -86,4 +86,21 @@ C.
   ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/WhatsApp%20Image%202026-01-18%20at%2022.45.56.jpeg)
 
 d.  
+  [publikasi](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/6791139.pdf)  
+  Pertama tama, dalam publikasi itu menjelasksan mengenai perkembangan perkembangan pada teknologi UAv pada beberapa taun kebelakang. Lalu, pada publikasi tersebut, ia menjelasksan mengenai berbagai jeis perkembangan pada teknologi UAV.  
+  * sensor yang lebih maju: sensor ini berguna untuk memberikan data data yang ada di sekitar UAV, yang membuat UAV dapat menavigasi dan berinteraksi dengan lingkungan sekitar secara ootomatis.
+  * Algoritma mesin dan visi komputasional: kedua ini membuat pesawat dapat melakukan decision making dan mengeskstrak informasi yang tertangkap pada sensor.
+  * teknologi komunikasi dan networking: Ini sangat berguna dalam menghubungkan UAV dengan ground station sehingga dapat terkendali oleh pilot. teknologi ini berkembang seiring berkembangnya telekomunikasi seperti data seluler, wifi, dan sebagainya.
+  * tenaga penggerak: tenaga penggerak ini menentukan seberapa banyak energi yang bissa dipakai pada UAV tersebut. teknologi ini berkembang dari engine engine biasa seperti jet engine atau combustion engine hingga adanya bertenaga listrik dan hybrid.
+  * sistem flight control: sistem ini berdungsi sebagai otak pesawat yang mengatur segala gerak gerik pesawat. lalu, teknologi ini semakin berkembang hingga teknologi modern menggunakan AI pada sistem tersebut.  
+  * sistem navigasi otomatis: sistem ini sangat berguna uagar pesawat dapat melakukan tugas tugasnya dengan otomatis secara aman dan efisien. salah satu perkembangan teknologi ini adalah SLAM, yang dapat membuat map dari lingkungan sekitar pesawat secara real time dan menentukan arah yang tepat.  
+  * Kawanan UAV: kawanan UAV adalah salah satu perkembangan teknologi yang dimana kumpulan UAV akan bersatu untuk menyelesaikan suatu misi bersama.
+  * sistem pengiriman paket: pengiriman paket dapat menjadi lebih cepat, efisien, dan lebih murah dengan adanya UAV sebagai media pengiriman paket.
+  * sistem inspeksi dan perbaikan: dengan berkembangnya teknologi, inspeksi dan perbaikan objek dapat dilakukan dengan lebih efisien menggunakan UAV yang dapat menemukan kecacatan dari objek tersebut. UAV juga dapat menjangkau apa yang mungkin sulit bagi manusia untuk mnejangkau.
+  * sistem anti tabrak dan keamanan: sistem ini sangat diperlukan agar suatu misi dapat terjalani dengan aman. slah satu perkembangan teknologi ini adalah sensor LIDAR dan RADAR yang dapat memberikan map #D dan informasi cuaca secara real time.
+
+  perkembangan teknologi sudah menjadikan banyak hal menjadi lebih efisien dan mencapai potensial yang dapat dilakukan.   
+
+## 6  
+a.  
   
