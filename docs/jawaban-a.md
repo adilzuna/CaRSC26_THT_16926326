@@ -103,4 +103,4 @@ d.
 
 ## 6  
 a.  
-  
+  Algoritma A* dan D* adalah algoritma untuk menemukan rute terpendek. Perbedaan A* dan D* hanyalah bahwa D* adalah versi dinamis dari A*. Dinamis pada konteks ini bermaksud bahwa D* dapat menyesuaikan dengan perubahan kondisi di sekitar. A* memiliki kekurangan lamanya waktu untuk menemukan jalan dan dan hanya bisa satu kondisi saja. Sedangkan D*, memiliki kekurangan panjangnya rute yang disebabkan oleh berubahnya atau tidak diketahuinya kondisi lingkungan sekitar. cara A* menemukan rutenya adalah dengan mulai mencari dari starting point hingga ke target. Sebaliknya, D* mencari rute dari target menuju starting point atau reverse dari A*. 
