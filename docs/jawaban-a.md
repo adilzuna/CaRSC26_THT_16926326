@@ -29,7 +29,7 @@ d.
   ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/WhatsApp%20Image%202026-01-17%20at%2012.10.09.jpeg)
 
 e.  
-
+  ![](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/Screenshot%202026-01-22%20131055.png)
 
 ## 3  
 a.  
@@ -113,3 +113,4 @@ b.
 c.  
   Kalman filter adalah algoritma untuk mengestimasi suatu nilai. Kalman filter berguna untuk meminimalisir error pada nilai tersebut. extended kalman filter adalah peluasan dari kalman filter. Kalman filter diatur oleh persamaan linear stokastik. persamaan linear stokastik tersebut adalah 𝑥𝑘 = 𝐶𝑥𝑘−1 + 𝐷𝑢𝑘 + 𝑤k. dimana k adalah waktu nya. kalman filter mengestimasi suatu nilai dengan bentuk loop feedback control. Lalu, persamaan pada kalman filter memiliki 2 bagian, yaitu pembaruan waktu untuk memproyeksikan kondisi saat ini dan pembaruan pengukuran untuk memberikan feedback. Pada extended kalman filter, fungsi stokastik tidak linear (𝑥𝑘 = 𝑓(𝑥𝑘−1, 𝑢𝑘, 𝑤𝑘)). dikarenakan tidak linear, maka penurunan fungsinya berhubungan denga value waktu sebelumnya.  
 [reference](https://github.com/adilzuna/CaRSC26_THT_16926326/blob/main/lampiran/Perbandingan_Metode_Kalman_Filter_Extended_Kalman_.pdf)
+
